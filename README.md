@@ -1,4 +1,4 @@
-Oii 🤍 Planeta Terra chamando
+Oii 🤍 Planeta Terra chamando 🌠
 
 Eu sou a Iza, bem vindo ao meu Github 🤍
 
