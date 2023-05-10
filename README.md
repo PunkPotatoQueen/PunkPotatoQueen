@@ -1,6 +1,6 @@
 Oii 🤍 Planeta Terra chamando 🌠
 
-Eu sou a Iza, bem vindo ao meu Github 🤍
+Eu sou a Iza, bem vindo ao meu Github ✨
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PunkPotatoQueen&hide=contribs&show_icons=true&theme=synthwave)
