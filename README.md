@@ -4,8 +4,7 @@ Eu sou a Iza, bem vindo ao meu Github ✨
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PunkPotatoQueen&hide=contribs&show_icons=true&theme=synthwave)
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PunkPotatoQueen&hide_progress=true&theme=synthwave)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PunkPotatoQueen&layout=compact&theme=synthwave&size_weight=0.1&count_weight=1)](https://github.com/PunkPotatoQueen/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Iza-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
